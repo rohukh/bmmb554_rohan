@@ -1,7 +1,7 @@
---------
-layout: default
+---
 title: "RD"
---------
+layout: default
+---
 
 # my great website
 
