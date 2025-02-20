@@ -1,3 +1,8 @@
+--------
+layout: default
+title: "RD"
+--------
+
 # my great website
 
 My name is Rohan Deshmukh. I am a student at [PSU](http://www.psu.edu)
